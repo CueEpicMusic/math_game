@@ -1,7 +1,5 @@
 # Nouns for Classes: Game, Player
 
-=begin
-
 Role for each class
 
 --Game--
@@ -14,6 +12,6 @@ Behavior: -prompts other player with question (input 2 numbers).
           -answer the other player's question (input 1 number).
           -automatically output whether or the the opponent got the question right.
 
-=end
+
 
 
